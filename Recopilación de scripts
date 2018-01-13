@@ -62,11 +62,21 @@
 #Ataque de fuerza bruta con Burp Suite Intruder
 #https://www.jesusninoc.com/2016/02/23/ataque-de-fuerza-bruta-con-burp-suite-intruder/
 
+##################################################
+#Criptografía en PowerShell
+##################################################
 #Conceptos básicos de cifrado
 #https://github.com/jesnino/PowerShell/blob/master/Seguridad/Conceptos%20b%C3%A1sicos%20de%20cifrado.ps1
-#https://github.com/jesusninoc/ClasesISO/blob/master/2018-01-25
-#Criptografía en PowerShell
+
+#https://www.jesusninoc.com/2017/01/06/realizar-combinaciones-de-letras-utilizando-el-bucle-for-en-powershell/
+
 #https://www.jesusninoc.com/2017/02/01/criptografia-en-powershell/
+
+#https://github.com/jesusninoc/ClasesISO/blob/master/2018-01-25
+
+#https://www.jesusninoc.com/2017/01/03/cifrar-y-descifrar-con-powershell/
+
+#https://www.jesusninoc.com/2017/01/05/criptoanalisis-basico-con-powershell-parte-1/
 
 ##################################################
 #Otros scripts
