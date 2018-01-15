@@ -67,4 +67,7 @@
 ## Permitir accesos remotos
 http://www.jesusninoc.com/2016/05/08/permitir-conexiones-remotas/
 
+# ¿Cómo entra el código malicioso en los sistemas operativos?
+## Código ofuscado
+
 
