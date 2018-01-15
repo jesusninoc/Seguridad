@@ -1,14 +1,14 @@
 # Medios de transmisión
 
--Software
+- Software
 
-  -Descargado
+  - Descargado
 
-  -Vulnerabilidades
+  - Vulnerabilidades
   
-    -Navegadores
+    - Navegadores
     
-    -Cliente mail
+    - Cliente mail
   
   -Macros
   
