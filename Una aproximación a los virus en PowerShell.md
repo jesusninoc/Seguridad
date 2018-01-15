@@ -1,10 +1,10 @@
 # Medios de transmisión
 
-Software
-  Descargado
-  Vulnerabilidades
-    Navegadores
-    Cliente mail
+-Software
+  -Descargado
+  -Vulnerabilidades
+    -Navegadores
+    -Cliente mail
   Macros
   Scripts
   SSL
