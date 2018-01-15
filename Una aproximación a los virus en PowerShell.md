@@ -1,8 +1,11 @@
 # Medios de transmisión
 
 -Software
+
   -Descargado
+
   -Vulnerabilidades
+  
     -Navegadores
     -Cliente mail
   Macros
