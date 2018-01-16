@@ -1,2 +1,2 @@
 # Seguridad
-Curso sobre seguridad
+Clases de seguridad
