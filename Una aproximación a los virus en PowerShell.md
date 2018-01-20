@@ -67,8 +67,22 @@
 ### Descargar aplicaciones por ejemplo FTP
 ### Modificar proxy
 ### Bloquear el escritorio
-## Permitir accesos remotos
+###  Permitir accesos remotos
 http://www.jesusninoc.com/2016/05/08/permitir-conexiones-remotas/
+### Eliminar un tipo de fichero por ejemplo MP3
+### Modificar el contenido de ficheros
+### Cifrar el contenido de ficheros
+### Utilizar Outlook y cualquier otro programa que permita enviar información
+### Modificar en el registro valores
+### Abrir puertos y activar sevicios
+### Crear cuentas de usuario
+### Crear ficheros y colocarlos de página principal
+### Añadir líneas del registro para modificar el comportamiento de los navegadores
+### Obtener información del sistema
+### Añadirlo al arranque en el registro
+### Crear un ejecutable para seguir con la infección
+### Buscar unidades de disco duro y demás
+### Cambiar un fichero JPG por un .PS1
 
 ## Hardware 
 ### Borrado del BIOS 
