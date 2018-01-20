@@ -58,16 +58,19 @@
 ### Consumir recursos hasta agotarlos
 ### Dejar una puerta abierta para otro programa
 ### Mostrar las contraseñas de todas las conexiones inalámbricas
+### Exportar cookie
+### Importar cookie
+### Instalar otros instaladores de cookies para sacar todas
+### Hacer navegador de 1x1
+### Copiar a dispositivos unidades y carpetas en red
+### Añadir virus a un BMP
+### Descargar aplicaciones por ejemplo FTP
+### Modificar proxy
+### Bloquear el escritorio
+## Permitir accesos remotos
+http://www.jesusninoc.com/2016/05/08/permitir-conexiones-remotas/
+
 ## Hardware 
 ### Borrado del BIOS 
 ### Quemado del procesador por falsa información del sensor de temperatura 
 ### Rotura del disco rígido al hacerlo leer repetidamente sectores específicos que fuercen su funcionamiento mecánico
-
-# Movimientos laterales en PowerShell
-## Permitir accesos remotos
-http://www.jesusninoc.com/2016/05/08/permitir-conexiones-remotas/
-
-# ¿Cómo entra el código malicioso en los sistemas operativos?
-## Código ofuscado
-
-
