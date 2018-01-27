@@ -1,2 +1,1 @@
 # Seguridad
-Clases de seguridad
