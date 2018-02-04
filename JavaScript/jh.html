@@ -1,0 +1,39 @@
+<html>
+<head>
+<script language="JavaScript">
+
+function passWord() {
+
+var testV = 1;
+
+var pass1 = prompt('pass');
+
+while (testV < 3) {
+
+if (!pass1) history.go(-1)
+
+if (pass1.toLowerCase() == "while") {
+
+alert('Tu contraseña es exacta');
+
+break;
+
+} 
+
+testV+=1;
+
+var pass1 = prompt('¡Equivocada! Puedes volver a intentarlo.','Contraseña');
+
+}
+
+if (pass1.toLowerCase()!="otra" & testV ==3) history.go(-1);
+
+return " ";
+
+}
+
+document.write(passWord());
+
+</script>
+</head>
+</html>
