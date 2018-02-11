@@ -1,31 +1,17 @@
 # Medios de transmisión
-
 - Software
-
   - Descargado
-
   - Vulnerabilidades
-  
     - Navegadores
-    
     - Cliente mail
-  
   - Macros
-  
   - Scripts
-  
   - SSL
-  
   - Recursos compartidos
-  
-- Hardware
-
+- Hardwar
   - USB
-
 - Radio
-
 - Personas
-
   - Compartir información
 
 # ¿Qué podemos hacer utilizando PowerShell?
