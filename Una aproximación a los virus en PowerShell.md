@@ -16,12 +16,12 @@
 
 # ¿Qué podemos hacer utilizando PowerShell?
 ## Software
-### Enviar correo
-### Cifrar contenido
-### Enviar posición del ratón
-### Enviar información de un keylogger
-### Enviar capturas de la webcam
-### Enviar captura de pantalla
+### - Enviar correo
+### - Cifrar contenido
+### - Enviar posición del ratón
+### - Enviar información de un keylogger
+### - Enviar capturas de la webcam
+### - Enviar captura de pantalla
 ### Cambio de la directiva de ejecución para ejecutar scripts en los que no se confía
 ### Descargar y ejecutar un script cambiando la directiva de ejecución
 ### Descargar y ejecutar un script sin cambiar la directiva de ejecución
