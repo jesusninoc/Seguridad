@@ -15,7 +15,7 @@
   - Compartir información
 
 # ¿Qué podemos hacer utilizando PowerShell?
-## - Software
+## Software
 ### - Enviar correo
 ### - Cifrar contenido
 ### - Enviar posición del ratón
@@ -70,7 +70,7 @@ http://www.jesusninoc.com/2016/05/08/permitir-conexiones-remotas/
 ### - Buscar unidades de disco duro y demás
 ### - Cambiar un fichero JPG por un PS1
 
-## - Hardware 
+## Hardware 
 ### - Borrado del BIOS 
 ### - Quemado del procesador por falsa información del sensor de temperatura 
 ### - Rotura del disco rígido al hacerlo leer repetidamente sectores específicos que fuercen su funcionamiento mecánico
