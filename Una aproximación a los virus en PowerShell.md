@@ -25,14 +25,23 @@ https://www.jesusninoc.com/2015/07/08/send-the-cursors-position-between-client-a
 ### - Enviar información de un keylogger
 https://www.jesusninoc.com/2015/07/16/transfer-keylogger-log-file-between-server-and-client-sockets-tcp/
 ### - Enviar capturas de la webcam
+https://www.jesusninoc.com/2015/07/18/capture-a-single-image-from-a-webcam-and-transfer-image-between-server-and-client-sockets-tcp/
 ### - Enviar captura de pantalla
+https://www.jesusninoc.com/2015/07/13/transfer-screenshot-between-server-and-client-sockets-tcp/
 ### - Cambio de la directiva de ejecución para ejecutar scripts en los que no se confía
+https://www.jesusninoc.com/2015/01/06/cambio-de-directiva-de-ejecucion-para-ejecutar-scripts-en-los-que-no-confia/
 ### - Descargar y ejecutar un script cambiando la directiva de ejecución
+https://www.jesusninoc.com/2015/01/08/descargar-y-ejecutar-un-script-cambiando-la-directiva-de-ejecucion/
 ### - Descargar y ejecutar un script sin cambiar la directiva de ejecución
+https://www.jesusninoc.com/2015/01/09/descargar-y-ejecutar-un-script-sin-cambiar-la-directiva-de-ejecucion/
 ### - Download & Execute
+https://www.jesusninoc.com/2016/11/15/formas-de-descargar-y-ejecutar-ficheros-desde-un-servidor-en-powershell/
 ### - Payload Netcat download and reverse shell
+https://www.jesusninoc.com/2015/02/19/payload-netcat-download-and-reverse-shell/
 ### - Automatizar el inicio de sesión en Facebook
+https://www.jesusninoc.com/2015/07/17/automatizar-el-inicio-de-sesion-en-facebook-de-forma-grafica-utilizando-powershell/
 ### - Recoger información disponible en el sistema
+https://www.jesusninoc.com/2016/10/09/windows-post-exploitation-cmdlets-execution-powershell/
 ### - Modificación de programas para que dejen de funcionar 
 ### - Modificación de programas para que funcionen erróneamente 
 ### - Modificación sobre los datos
@@ -62,6 +71,7 @@ http://www.jesusninoc.com/2016/05/08/permitir-conexiones-remotas/
 ### - Eliminar un tipo de fichero por ejemplo MP3
 ### - Modificar el contenido de ficheros
 ### - Cifrar el contenido de ficheros
+https://www.jesusninoc.com/2017/01/23/cifrar-con-un-algoritmo-sencillo-el-nombre-y-el-contenido-de-un-fichero-de-texto/
 ### - Utilizar Outlook y cualquier otro programa que permita enviar información
 ### - Modificar en el registro valores
 ### - Abrir puertos y activar servicios
