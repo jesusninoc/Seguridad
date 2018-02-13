@@ -17,7 +17,9 @@
 # ¿Qué podemos hacer utilizando PowerShell?
 ## Software
 ### - Enviar correo
+https://www.jesusninoc.com/2015/06/05/enviar-correo-electronico-utilizando-outlook/
 ### - Cifrar contenido
+https://www.jesusninoc.com/2017/01/23/cifrar-con-un-algoritmo-sencillo-el-nombre-y-el-contenido-de-un-fichero-de-texto/
 ### - Enviar posición del ratón
 ### - Enviar información de un keylogger
 ### - Enviar capturas de la webcam
