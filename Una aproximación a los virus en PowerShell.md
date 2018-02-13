@@ -21,7 +21,9 @@ https://www.jesusninoc.com/2015/06/05/enviar-correo-electronico-utilizando-outlo
 ### - Cifrar contenido
 https://www.jesusninoc.com/2017/01/23/cifrar-con-un-algoritmo-sencillo-el-nombre-y-el-contenido-de-un-fichero-de-texto/
 ### - Enviar posición del ratón
+https://www.jesusninoc.com/2015/07/08/send-the-cursors-position-between-client-and-server-sockets-tcp/
 ### - Enviar información de un keylogger
+https://www.jesusninoc.com/2015/07/16/transfer-keylogger-log-file-between-server-and-client-sockets-tcp/
 ### - Enviar capturas de la webcam
 ### - Enviar captura de pantalla
 ### - Cambio de la directiva de ejecución para ejecutar scripts en los que no se confía
