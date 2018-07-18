@@ -15,6 +15,7 @@
   - Compartir información
 
 # ¿Qué podemos hacer utilizando PowerShell?
+
 ## Software
 ### - Enviar correo
 https://www.jesusninoc.com/2015/06/05/enviar-correo-electronico-utilizando-outlook/
@@ -42,6 +43,10 @@ https://www.jesusninoc.com/2015/02/19/payload-netcat-download-and-reverse-shell/
 https://www.jesusninoc.com/2015/07/17/automatizar-el-inicio-de-sesion-en-facebook-de-forma-grafica-utilizando-powershell/
 ### - Recoger información disponible en el sistema
 https://www.jesusninoc.com/2016/10/09/windows-post-exploitation-cmdlets-execution-powershell/
+### - Desactivar la visualización de inmediato mediante PowerShell
+https://www.jesusninoc.com/2018/07/17/desactivar-la-visualizacion-de-inmediato-mediante-powershell/
+### - Desactivar la visualización de inmediato desde PowerShell, abrir Notepad y escribir un texto
+https://www.jesusninoc.com/2018/07/18/desactivar-la-visualizacion-de-inmediato-desde-powershell-abrir-notepad-y-escribir-un-texto/
 ### - Modificación de programas para que dejen de funcionar 
 ### - Modificación de programas para que funcionen erróneamente 
 ### - Modificación sobre los datos
@@ -60,8 +65,10 @@ https://www.jesusninoc.com/2016/10/09/windows-post-exploitation-cmdlets-executio
 ### - Exportar cookie
 ### - Importar cookie
 ### - Instalar otros instaladores de cookies para sacar todas
-### - Hacer navegador de 1x1
-### - Copiar a dispositivos unidades y carpetas en red
+### - Abrir Firefox con el tamaño 1×1
+https://www.jesusninoc.com/2016/06/06/abrir-firefox-con-el-tamano-1x1/
+### - Obtener información sobre los dispositivos USB conectados en un equipo del dominio con PowerShell
+https://www.jesusninoc.com/2017/07/23/obtener-informacion-sobre-los-dispositivos-usb-conectados-en-un-equipo-del-dominio-con-powershell/
 ### - Añadir virus a un BMP
 ### - Descargar aplicaciones por ejemplo FTP
 ### - Modificar proxy
@@ -73,9 +80,11 @@ http://www.jesusninoc.com/2016/05/08/permitir-conexiones-remotas/
 ### - Cifrar el contenido de ficheros
 https://www.jesusninoc.com/2017/01/23/cifrar-con-un-algoritmo-sencillo-el-nombre-y-el-contenido-de-un-fichero-de-texto/
 ### - Utilizar Outlook y cualquier otro programa que permita enviar información
-### - Modificar en el registro valores
+### - Almacenar valores del Registro de Windows en una variable en PowerShell
+https://www.jesusninoc.com/2017/07/29/almacenar-valores-del-registro-de-windows-en-una-variable-en-powershell/
 ### - Abrir puertos y activar servicios
-### - Crear cuentas de usuario
+### - Crear un usuario local con contraseña en Windows 10
+https://www.jesusninoc.com/2017/02/05/crear-un-usuario-local-con-contrasena-en-windows-10/
 ### - Crear ficheros y colocarlos de página principal
 ### - Añadir líneas del registro para modificar el comportamiento de los navegadores
 ### - Obtener información del sistema
@@ -85,6 +94,6 @@ https://www.jesusninoc.com/2017/01/23/cifrar-con-un-algoritmo-sencillo-el-nombre
 ### - Cambiar un fichero JPG por un PS1
 
 ## Hardware 
-### - Borrado del BIOS 
+### - Borrado de BIOS 
 ### - Quemado del procesador por falsa información del sensor de temperatura 
 ### - Rotura del disco rígido al hacerlo leer repetidamente sectores específicos que fuercen su funcionamiento mecánico
