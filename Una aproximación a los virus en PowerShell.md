@@ -92,8 +92,3 @@ https://www.jesusninoc.com/2017/02/05/crear-un-usuario-local-con-contrasena-en-w
 ### - Crear un ejecutable para seguir con la infección
 ### - Buscar unidades de disco duro y demás
 ### - Cambiar un fichero JPG por un PS1
-
-## Hardware 
-### - Borrado de BIOS 
-### - Quemado del procesador por falsa información del sensor de temperatura 
-### - Rotura del disco rígido al hacerlo leer repetidamente sectores específicos que fuercen su funcionamiento mecánico
