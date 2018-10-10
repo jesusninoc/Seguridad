@@ -8,7 +8,7 @@
   - Scripts
   - SSL
   - Recursos compartidos
-- Hardwar
+- Hardware
   - USB
 - Radio
 - Personas
