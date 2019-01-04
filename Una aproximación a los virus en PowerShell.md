@@ -92,3 +92,5 @@ https://www.jesusninoc.com/2017/02/05/crear-un-usuario-local-con-contrasena-en-w
 ### - Crear un ejecutable para seguir con la infección
 ### - Buscar unidades de disco duro y demás
 ### - Cambiar un fichero JPG por un PS1
+### - Convertir PS2EXE
+https://gallery.technet.microsoft.com/scriptcenter/PS2EXE-GUI-Convert-e7cb69d5
