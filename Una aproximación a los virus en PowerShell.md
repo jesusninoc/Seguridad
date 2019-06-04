@@ -82,6 +82,8 @@ https://www.jesusninoc.com/2017/01/23/cifrar-con-un-algoritmo-sencillo-el-nombre
 ### - Utilizar Outlook y cualquier otro programa que permita enviar información
 ### - Almacenar valores del Registro de Windows en una variable en PowerShell
 https://www.jesusninoc.com/2017/07/29/almacenar-valores-del-registro-de-windows-en-una-variable-en-powershell/
+### - EJECUTAR LA INFORMACIÓN QUE SE ENCUENTRA EN UN VALOR DENTRO DE LA CLAVE CLSID DEL REGISTRO DE WINDOWS
+https://www.jesusninoc.com/06/04/ejecutar-la-informacion-que-se-encuentra-en-un-valor-dentro-de-la-clave-clsid-del-registro-de-windows/
 ### - Abrir puertos y activar servicios
 ### - Crear un usuario local con contraseña en Windows 10
 https://www.jesusninoc.com/2017/02/05/crear-un-usuario-local-con-contrasena-en-windows-10/
