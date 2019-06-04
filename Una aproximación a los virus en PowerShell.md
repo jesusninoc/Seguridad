@@ -72,6 +72,7 @@ https://www.jesusninoc.com/2017/07/23/obtener-informacion-sobre-los-dispositivos
 ### - Añadir virus a un BMP
 ### - Descargar aplicaciones por ejemplo FTP
 ### - Modificar proxy
+https://www.jesusninoc.com/03/27/habilitar-o-deshabilitar-un-servidor-proxy-en-internet-explorer-utilizando-powershell/
 ### - Bloquear el escritorio
 ### - Permitir accesos remotos
 http://www.jesusninoc.com/2016/05/08/permitir-conexiones-remotas/
@@ -80,6 +81,8 @@ http://www.jesusninoc.com/2016/05/08/permitir-conexiones-remotas/
 ### - Cifrar el contenido de ficheros
 https://www.jesusninoc.com/2017/01/23/cifrar-con-un-algoritmo-sencillo-el-nombre-y-el-contenido-de-un-fichero-de-texto/
 ### - Utilizar Outlook y cualquier otro programa que permita enviar información
+### - CAMBIAR LA PÁGINA DE INICIO EN INTERNET EXPLORER DESDE EL REGISTRO DE WINDOWS
+https://www.jesusninoc.com/06/04/cambiar-la-pagina-de-inicio-en-internet-explorer-desde-el-registro-de-windows/
 ### - Almacenar valores del Registro de Windows en una variable en PowerShell
 https://www.jesusninoc.com/2017/07/29/almacenar-valores-del-registro-de-windows-en-una-variable-en-powershell/
 ### - EJECUTAR LA INFORMACIÓN QUE SE ENCUENTRA EN UN VALOR DENTRO DE LA CLAVE CLSID DEL REGISTRO DE WINDOWS
