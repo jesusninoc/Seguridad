@@ -15,6 +15,7 @@
   - Compartir información
 
 # ¿Qué podemos hacer utilizando PowerShell?
+* https://www.jesusninoc.com/01/10/ejercicios-de-seguridad-practica-sobre-virus/#Que_podemos_hacer_utilizando_PowerShell
 
 ## Software
 ### - Enviar correo
